@@ -6,7 +6,7 @@
 
 * **Programming Languages:** Python, JavaScript (React, Angular), HTML, CSS
 * **Frameworks:** Django, Flask, Node.js, Bootstrap
-* **Databases:** MySQL, PostgreSQL
+* **Databases:** MySQL, PostgreSQL, MongoDB
 * **Version Control:** Git
 * **Tools & Technologies:** Docker, AWS, RESTful APIs
 
