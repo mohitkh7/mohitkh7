@@ -11,6 +11,7 @@
 * **Tools & Technologies:** Docker, AWS, RESTful APIs
 
 #### 🎤 Talks & Workshop:
+* Workshop on ["Python-Powered Algorithmic Trading"](https://www.linkedin.com/posts/mohitkh7_pyconindia2024-algorithmictrading-python-activity-7241697979424788482-efSB) at PyCon India 2024.
 * Webinar on ["Observer design pattern 101"](https://www.youtube.com/watch?v=XA_cVUDlxDI) with Pune developer's community.
 * Webinar on "Promises in Javascript" hosted by Indore software developer community.
 * Webinar on ["Unit testing in Javascript"](https://www.youtube.com/watch?v=I5ds3o9LTEM) at Tech Carnival event organised by Pune developer's community.
