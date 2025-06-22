@@ -11,6 +11,7 @@
 * **Tools & Technologies:** Docker, AWS, RESTful APIs
 
 #### 🎤 Talks & Workshop: 
+* Session on "Building a crypto wallet and exchange platform using Bitgo APIs" at Be With Bitgo event.
 * Workshop on ["Python-Powered Algorithmic Trading"](https://www.linkedin.com/posts/mohitkh7_pyconindia2024-algorithmictrading-python-activity-7241697979424788482-efSB) at PyCon India 2024.
 * Talk on "Blockchain Wrapped 2024" at Be with Bitgo Openverse event.
 * Masterclass on ["A Beginner's Guide to AWS Serverless"](https://www.linkedin.com/posts/mohitkh7_awsserverless-masterclass-pregrad-activity-7171417036454150144-sMs2/) in collaboration with Pregrad.
