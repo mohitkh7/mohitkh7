@@ -26,7 +26,7 @@
 *  Machine learning foundation - Cornell University
 
 #### 📖 Blogs:
-* [Are you making the same mistake as I did in my django project ?](https://www.linkedin.com/pulse/you-making-same-mistake-i-did-my-django-project-mohit-khandelwal/)
+* [Are you making the same mistake as I did in my django project?](https://www.linkedin.com/pulse/you-making-same-mistake-i-did-my-django-project-mohit-khandelwal/)
 * [Arrange-Act-Assert pattern in unit testing](https://medium.com/@mohitkh7/arrange-act-assert-pattern-in-unit-testing-7ed2b35c964)
 
 #### 🔍 Where to find me
